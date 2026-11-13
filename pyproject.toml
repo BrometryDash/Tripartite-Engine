@@ -1,0 +1,15 @@
+# Tool configuration only. This repository is run as scripts (see README), not installed as a package.
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# "experiments" is on the path so tests can import the experiment modules directly.
+pythonpath = [".", "experiments"]
+
+[tool.ruff]
+line-length = 110
+
+[tool.ruff.lint]
+# Correctness rules only (pycodestyle errors + pyflakes): unused imports/variables, undefined names, etc.
+select = ["E4", "E7", "E9", "F"]
+# `I` is the conventional symbol for IP3 in the model equations, so single-letter state names are intentional.
+ignore = ["E741"]

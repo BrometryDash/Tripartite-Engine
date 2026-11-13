@@ -1,0 +1,10 @@
+{
+    "N_simulations_attempted": 100,
+    "N_simulations_valid": 100,
+    "Median_Peak_BOLD_Pct": 1.87,
+    "Upper_Bound_Peak_Pct": 6.42,
+    "Lower_Bound_Peak_Pct": 0.47,
+    "BOLD_TTP_min_s": 9.67,
+    "BOLD_TTP_median_s": 12.12,
+    "BOLD_TTP_max_s": 19.83
+}

@@ -1,0 +1,21 @@
+# Virtual environments (the uploaded zip contained a ~490 MB venv with 54,000+ files -- never commit these)
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+__MACOSX/
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/

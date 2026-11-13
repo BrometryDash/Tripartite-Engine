@@ -1,0 +1,10 @@
+Variable,Baseline,Peak_Value,Max_Deviation,Time_to_Peak_s
+Vesicles (V),1.0,0.1351,0.8649,1.98
+Glutamate (G),0.0,632.3102,632.3102,2.0
+IP3 (I),0.0,0.2455,0.2455,3.72
+Calcium (C),0.0,0.8397,0.8397,11.38
+Vaso Signal (s),0.0,0.0407,0.0407,4.56
+Blood Flow (f),1.0,1.2098,0.2098,10.76
+Blood Vol (v),1.0,1.0648,0.0648,11.08
+DeoxyHb (q),1.0,0.9174,0.0826,12.42
+BOLD (%),0.0,1.9798,1.9798,12.22

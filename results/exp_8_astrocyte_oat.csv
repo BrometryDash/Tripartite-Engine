@@ -1,0 +1,7 @@
+Parameter,Module,New_Ca2_TTP_s,TTP_Reduction_s
+k_prod,astrocyte,11.62,-0.25
+k_deg,astrocyte,10.89,0.49
+J_max,astrocyte,11.38,0.0
+tau_Ca,astrocyte,5.63,5.75
+V_max,glutamate pool,4.05,7.33
+rho,glutamate pool,4.36,7.02

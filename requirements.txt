@@ -1,0 +1,5 @@
+# NumPy >= 2.0 is required (np.trapezoid). Tested with numpy 2.5, scipy 1.18, pandas 3.0, matplotlib 3.11.
+numpy>=2.0
+scipy>=1.13
+pandas>=2.2
+matplotlib>=3.8

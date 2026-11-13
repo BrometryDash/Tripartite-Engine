@@ -1,0 +1,4 @@
+Condition,Peak_Ca_uM,Peak_Flow_Pct,Peak_BOLD_Pct,BOLD_TTP_s
+Healthy,0.8397,20.98,1.98,15.23
+Mild Stiffness,0.8397,20.98,2.17,15.16
+Severe Stiffness,0.8397,20.98,2.42,15.07
