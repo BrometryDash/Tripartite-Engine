@@ -240,7 +240,7 @@ Each parameter was increased by 10 % one at a time, and S is the fractional chan
 Peak BOLD is controlled by the astrocyte-to-vessel gains, and the synaptic and uptake parameters (tau_rec, U,
 V_max, K_m, rho) have almost no effect on the amplitude. Some of this can be explained from the equations.
 IP3 only reaches about 0.25 uM while K_I = 2 uM, so the Hill term for Ca2+ release is in its quadratic regime,
-and Ca2+ is roughly proportional to J_max x (k_prod / (k_deg x K_I))^2 x tau_Ca. That is why k_prod, k_deg and
+and Ca2+ is roughly proportional to $J_max x (k_prod / (k_deg x K_I))^2 x tau_Ca.$ That is why k_prod, k_deg and
 K_I have sensitivities of about +2, -2 and -2 (reduced a bit by saturation further down the chain). It also means
 J_max and K_I only matter through the combination J_max / K_I^2, and that epsilon and J_max have exactly the
 same sensitivity (0.8734) because they only appear as the product epsilon x J_max. Neither pair could be told
